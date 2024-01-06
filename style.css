@@ -47,6 +47,12 @@
       background-color: #555;
     }
 
+    .navigation .dropdown:hover > a,
+    .navigation .dropdown-content:hover + a {
+      background-color: #4CAF50; /* Новий колір для Home при появі дропдаун-меню */
+      color: #fff; /* Новий колір тексту для Home при появі дропдаун-меню */
+    }
+
     .navigation .dropdown:hover .dropdown-content {
       display: block;
     }
