@@ -8,19 +8,6 @@
       padding: 20px;
     }
 
-    .navigation {
-      list-style-type: none;
-      padding: 0;
-      background-color: #ddd;
-      overflow: hidden;
-      margin-bottom: 20px;
-    }
-
-    .navigation li {
-      display: inline-block;
-      margin-right: 10px;
-    }
-
     .navigation a {
       display: block;
       color: white;
